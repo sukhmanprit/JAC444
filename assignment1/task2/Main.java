@@ -5,8 +5,8 @@
 package assignment1_task2;
 
 public class Main {
-	public static void main(String[] args) {		
-		EightQueensProblem board = new EightQueensProblem();
-		board.start();
-	} // main
+  public static void main(String[] args) {
+    EightQueensProblem board = new EightQueensProblem();
+    board.start();
+  } // main
 } // Main
