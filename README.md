@@ -8,7 +8,7 @@
 
 ### Course structure
 
-When I was a JAC444 student we only had 6 assignments.
+When I was a JAC444 student we only had 3 assignments.
 
 + [Assignment 1](https://github.com/tony-elistratov/JAC444/tree/master/assignment1)
 + [Assignment 2](https://github.com/tony-elistratov/JAC444/tree/master/assignment2)
